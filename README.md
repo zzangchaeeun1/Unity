@@ -2,7 +2,8 @@
 
 
 
-https://github.com/zzangchaeeun1/Unity/issues/1#issue-2343257775
+![Uploading 유니티6.PNG…]()
+
 
 
 NPC에게 반경을 지정하여 그 반경안에 들어갈 시 대화창이 생성되는 코드입니다. 
